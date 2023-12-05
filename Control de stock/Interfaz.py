@@ -1,3 +1,6 @@
+from funciones import insertar_producto
+
+# Función para agregar productos a la base de datos
 def agregar_producto():
     nombre = nombre_entry.get()
     cantidad = cantidad_entry.get()

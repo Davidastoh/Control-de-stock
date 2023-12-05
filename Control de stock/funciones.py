@@ -1,3 +1,5 @@
+from Config import *
+
 def conectar_base_datos():
     """
     Esta función conecta con la base de datos.

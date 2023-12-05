@@ -1,6 +1,6 @@
 from tkinter import Tk
 from funciones import *
-from Usuario import *
+from Producto import *
 
 if __name__== "__main__":
     # Crear la interfaz de usuario
